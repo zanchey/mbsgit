@@ -1,4 +1,4 @@
-#! python3
+#!/usr/bin/env python3
 
 # mbsgit - transforms the Australian Medicare Benefits Schedule from XML to a git tree
 #
